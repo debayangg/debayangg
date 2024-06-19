@@ -1,5 +1,7 @@
 ## Hi there 👋
 Watch one piece, it's the best anime.
+I'm an AI skeptic.
+I like using Linux, dont want to work because I heard real companies use Windows/Mac. Real world scary.
 <!--
 **debayangg/debayangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
